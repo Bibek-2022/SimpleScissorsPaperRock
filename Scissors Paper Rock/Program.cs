@@ -11,7 +11,10 @@ namespace Scissors_Paper_Rock
             int oppScore = 0;
 
             Console.WriteLine("Welcome to ROCK PAPER SCISSORS");
-
+            if (playerScore == 3) {
+                Console.WriteLine("YOU LOOSE");
+                    ;} else {
+                Console.WriteLine("YOU WIN OVERALL"); }
             while (playerScore != 3 && oppScore != 3)
             {
                 Console.WriteLine("Player score - " + playerScore + ". Enemy Score - " + oppScore);
@@ -29,9 +32,11 @@ namespace Scissors_Paper_Rock
                             break;
                         case "p":
                             Console.WriteLine("Player wins!!!");
+                            playerScore++;
                             break;
                         default:
                             Console.WriteLine("Enemy Win!!!");
+                            oppScore++;
                             break;
 
                     }
@@ -43,9 +48,11 @@ namespace Scissors_Paper_Rock
                     {
                         case "r":
                             Console.WriteLine("Enemy win!!!");
+                            oppScore++;
                             break;
                         case "s":
                             Console.WriteLine("Player wins!!!");
+                            playerScore++;
                             break;
                         default:
                             Console.WriteLine("Tie!!!");
@@ -63,9 +70,11 @@ namespace Scissors_Paper_Rock
                             break;
                         case "p":
                             Console.WriteLine("Enemy Win!!!");
+                            oppScore++;
                             break;
                         default:
                             Console.WriteLine("Player Win !!!");
+                            playerScore++;
                             break;
 
                     }

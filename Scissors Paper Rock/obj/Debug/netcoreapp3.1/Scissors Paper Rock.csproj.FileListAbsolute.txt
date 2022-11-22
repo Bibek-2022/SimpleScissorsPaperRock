@@ -1,0 +1,14 @@
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\bin\Debug\netcoreapp3.1\Scissors Paper Rock.exe
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\bin\Debug\netcoreapp3.1\Scissors Paper Rock.deps.json
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\bin\Debug\netcoreapp3.1\Scissors Paper Rock.runtimeconfig.json
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\bin\Debug\netcoreapp3.1\Scissors Paper Rock.runtimeconfig.dev.json
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\bin\Debug\netcoreapp3.1\Scissors Paper Rock.dll
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\bin\Debug\netcoreapp3.1\Scissors Paper Rock.pdb
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.csproj.AssemblyReference.cache
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.AssemblyInfoInputs.cache
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.AssemblyInfo.cs
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.csproj.CoreCompileInputs.cache
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.dll
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.pdb
+C:\Users\bibek\source\repos\Scissors Paper Rock\Scissors Paper Rock\obj\Debug\netcoreapp3.1\Scissors Paper Rock.genruntimeconfig.cache
